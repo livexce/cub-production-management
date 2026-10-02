@@ -1,0 +1,96 @@
+h1{
+    font-size:22px;
+    color:white;
+    text-align:center;
+}
+h2{
+    font-size:20px;
+    color:black;
+    text-align:left;
+}
+h3{
+    font-size:14px;
+    color:black;
+    text-align:center;
+}
+
+body{
+    /*    background-color: #d633849e;*/
+    background-image: url("../img/cub.jpg")
+        /*  background-size: cover;*/
+}
+
+.dodiv{
+    padding:20px;
+}
+
+.nav-tabs .unactive{
+    background-color: #c1c1c1;
+    color: #495057;
+}
+.custom-button {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+}
+.bg_lundi{
+    background-color: #ADD8E6 !important;
+}
+.bg_mardi{
+    background-color: #87CEFA !important;
+}
+.bg_mercredi{
+    background-color: #5CACEE !important;
+}
+.bg_jeudi{
+    background-color: #1E90FF !important;
+}
+.bg_vendredi{
+    background-color: #007FFF !important;
+}
+.table-green{
+    background-color:#9AFF9A !important;
+}
+.table-orange{
+    background-color:#F7A71B !important;
+}
+.table-red{
+    background-color:#E84F47 !important;
+}
+.table-red2{
+    background-color:#FF6666 !important;
+}
+.table-color{
+    background-color:pink !important;
+}
+
+.laquage-color{
+    background-color:#F7AFCD !important;
+}
+
+.plaxage-color{
+    background-color:#F3EB0A !important;
+}
+
+.form_error{
+    border: solid 4px #CF0002;
+}
+
+.vertical{
+    writing-mode: tb-rl;
+    transform: rotate(-180deg);
+    max-width:54px!important;
+    height:200px;
+}
+
+@media print {
+    table {
+        font-size: 0.6rem!important;
+    }
+    body {
+        background-color:white!important;
+    }
+    .not-printed{
+        display:none;
+    }
+}
