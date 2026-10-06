@@ -17,8 +17,4 @@ Planning de production filtrable, dossiers de fabrication, gestion des réceptio
 **Ce que j’en retiens**  
 Ce projet m’a donné une expérience concrète d’une application fullstack orientée métier. Il m’a aussi permis d’identifier des améliorations professionnelles à apporter : sécurisation des requêtes SQL, gestion moderne des mots de passe, configuration par environnement, structuration du code, tests, API REST, Docker et CI/CD.
 
-## Pourquoi je le présente à Wokine
 
-L’offre Wokine met l’accent sur PHP, HTML/CSS, JavaScript, MySQL, la capacité à comprendre et reprendre du code existant, la résolution de problèmes, Git et la curiosité pour les outils d’IA. CUB est le projet de mon portfolio qui montre le plus directement ces compétences et cette manière de travailler.
-
-Je ne prétends pas maîtriser encore toute la stack mentionnée dans l’offre, notamment WordPress, WooCommerce ou Laravel. Mon objectif en alternance est précisément de consolider mes bases web et de progresser rapidement sur ces technologies au contact de projets clients réels.
