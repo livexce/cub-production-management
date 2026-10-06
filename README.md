@@ -89,7 +89,7 @@ Cette démarche est importante pour moi : savoir montrer ce qui fonctionne, mais
 ## À propos
 
 **Ayoub EL MAZOUZI**  
-Étudiant en Master Data & IA — recherche d’une alternance en développement web / fullstack.  
+Étudiant en Master Data & IA — On recherche d’une alternance.
 Intérêt particulier pour PHP, JavaScript, bases de données, développement d’applications métier et usages de l’IA comme outil d’aide au développement, avec relecture critique du code produit.
 
 ---
